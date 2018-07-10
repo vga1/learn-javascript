@@ -1,2 +1,2 @@
 # learn-javascript
-stady
+study
