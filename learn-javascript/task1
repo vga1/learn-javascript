@@ -1,9 +1,0 @@
-Backend (express+json)
-
-plain user:password (admin:123456)
-authorize (post), + put into session -> user
-if errors - show them
-Frontend
-
-https://getbootstrap.com/docs/4.1/examples/sign-in/ form
-ajax send request to backend
